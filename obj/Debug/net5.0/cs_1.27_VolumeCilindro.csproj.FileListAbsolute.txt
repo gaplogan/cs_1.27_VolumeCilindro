@@ -1,0 +1,16 @@
+E:\GitHub\cs_1.27_VolumeCilindro\bin\Debug\net5.0\cs_1.27_VolumeCilindro.exe
+E:\GitHub\cs_1.27_VolumeCilindro\bin\Debug\net5.0\cs_1.27_VolumeCilindro.deps.json
+E:\GitHub\cs_1.27_VolumeCilindro\bin\Debug\net5.0\cs_1.27_VolumeCilindro.runtimeconfig.json
+E:\GitHub\cs_1.27_VolumeCilindro\bin\Debug\net5.0\cs_1.27_VolumeCilindro.runtimeconfig.dev.json
+E:\GitHub\cs_1.27_VolumeCilindro\bin\Debug\net5.0\cs_1.27_VolumeCilindro.dll
+E:\GitHub\cs_1.27_VolumeCilindro\bin\Debug\net5.0\ref\cs_1.27_VolumeCilindro.dll
+E:\GitHub\cs_1.27_VolumeCilindro\bin\Debug\net5.0\cs_1.27_VolumeCilindro.pdb
+E:\GitHub\cs_1.27_VolumeCilindro\obj\Debug\net5.0\cs_1.27_VolumeCilindro.csprojAssemblyReference.cache
+E:\GitHub\cs_1.27_VolumeCilindro\obj\Debug\net5.0\cs_1.27_VolumeCilindro.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\cs_1.27_VolumeCilindro\obj\Debug\net5.0\cs_1.27_VolumeCilindro.AssemblyInfoInputs.cache
+E:\GitHub\cs_1.27_VolumeCilindro\obj\Debug\net5.0\cs_1.27_VolumeCilindro.AssemblyInfo.cs
+E:\GitHub\cs_1.27_VolumeCilindro\obj\Debug\net5.0\cs_1.27_VolumeCilindro.csproj.CoreCompileInputs.cache
+E:\GitHub\cs_1.27_VolumeCilindro\obj\Debug\net5.0\cs_1.27_VolumeCilindro.dll
+E:\GitHub\cs_1.27_VolumeCilindro\obj\Debug\net5.0\ref\cs_1.27_VolumeCilindro.dll
+E:\GitHub\cs_1.27_VolumeCilindro\obj\Debug\net5.0\cs_1.27_VolumeCilindro.pdb
+E:\GitHub\cs_1.27_VolumeCilindro\obj\Debug\net5.0\cs_1.27_VolumeCilindro.genruntimeconfig.cache
